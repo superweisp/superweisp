@@ -1,10 +1,10 @@
-### Hi there 👋
+
 
 <!--
 **superweisp/superweisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently a PhD candicate in Southwestern University of Finance and Economics (SWUFE)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Shaopeng Wei 魏少朋
+#  魏少朋 Shaopeng Wei
+<img src="photo.jpg" alt="drawing" width="100"/>
 
 ## About Me
 I’m currently a PhD candicate in Southwestern University of Finance and Economics (SWUFE)
@@ -22,7 +23,7 @@ I’m currently a PhD candicate in Southwestern University of Finance and Econom
 ## Experience
 + 2019-now   Southwestern University of Finance and Economics (SWUFE), Chengdu, China
     - PhD student, Majoring in Management of Big Data, supervised by [**Gang Kou**](https://scholar.google.com/citations?hl=zh-CN&user=dRL7HngAAAAJ) and [**Yu Zhao**](https://scholar.google.com/citations?hl=zh-CN&user=J3yW0aYAAAAJ) (co-supervise), 
-+ 2015-2019  Huazhong Agricultural University(HZAU), Wuhan, China
++ 2015-2019  Huazhong Agricultural University (HZAU), Wuhan, China
     - Majored in Accounting, Bachelor’s degree
 
 
